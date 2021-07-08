@@ -1,5 +1,5 @@
 # AppleHomePage
-A clone of Apple's Home Page "Apple.com"
+A clone of Apple's Home Page "Apple.com" -> created on 7/7/2021
 
 I created this project to see how close of cloning Apple's Home Page I could get to on my own with HTML5 and Tailwind CSS
 
